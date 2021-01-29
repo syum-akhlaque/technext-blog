@@ -1,0 +1,12 @@
+.my-profile .card{
+    border:none !important
+}
+.my-profile .card-footer {
+    
+    border: none !important;
+}
+.my-profile h5.card-title {
+    min-height: 80px;
+    text-align: center;
+    background-color: azure;
+} 

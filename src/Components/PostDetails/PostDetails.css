@@ -1,0 +1,31 @@
+.postDetails {
+	padding: 50px;
+    text-align: center;
+    background-color: saddlebrown;
+    color: white;
+}
+.postDetails h1{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.postDetails p{
+    font-size: 25px;
+}
+.commentSection h2{
+    text-align: center;
+}
+.singleComment {
+	border: 1px solid #eee;
+	padding: 15px 20px;
+	border-radius: 30px;
+	margin: 16px 30px 0 0;
+    background: antiquewhite;
+    display: flex;
+}
+.commentSection ul li{
+    list-style:none;
+}
+.commentSection img{
+    padding: 15px 20px;
+    border-radius: 50%;
+}

@@ -1,0 +1,8 @@
+.blog h5.card-title {
+    min-height: 80px;
+    text-align: center;
+    background-color: azure;
+} 
+.read-more{
+    cursor: pointer;
+}

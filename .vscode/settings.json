@@ -1,0 +1,9 @@
+{
+    "emmet.excludeLanguages": [
+    "!**/{node_modules,npm-global,.yarn,.nvm}/**"
+        "markdown"
+    ], 
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}
